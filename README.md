@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Lonelyjava
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+💻 Java Full Stack Developer | 7+ Years of Experience  
+🚀 Skilled in Java, Spring Boot, Microservices, Angular, REST APIs, Kafka & AWS  
+🛠️ Passionate about building scalable, secure, and high-performance applications  
+🌱 Exploring AI, Cloud Computing & System Design  
+🌍 Open to Remote Opportunities & Open-Source Collaboration
 
-<!---
-Lonelyjava/Lonelyjava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Java Full Stack Developer | 7+ YOE | Java, Spring Boot, Microservices, Angular, AWS | Building scalable applications 🚀
